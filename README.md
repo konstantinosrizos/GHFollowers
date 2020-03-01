@@ -5,22 +5,22 @@
 
 ---
 
-### The Followers Screen:
+#### The Followers Screen:
 ![](Assets/Followers.png)
 
 ---
 
-### The User Info Screen:
+#### The User Info Screen:
 ![](Assets/UserInfo.png)
 
 ---
 
-### The Favorites Screen:
+#### The Favorites Screen:
 ![](Assets/Favorites.png)
 
 ---
 
-![Preview](Assets/Demo.mov)
+![Preview](Assets/Demo.gif)
 
 ---
 
