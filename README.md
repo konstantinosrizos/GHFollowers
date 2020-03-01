@@ -1,7 +1,22 @@
 #  GHFollowers
 
-### The App:
+#### The Landing Screen:
 ![](Assets/LandScreen.png)
+
+---
+
+### The Followers Screen:
+![](Assets/Followers.png)
+
+---
+
+### The User Info Screen:
+![](Assets/UserInfo.png)
+
+---
+
+### The Favorites Screen:
+![](Assets/Favorites.png)
 
 ---
 
@@ -9,5 +24,5 @@
 
 ---
 
-Tutorial Source: [CodeWithChris](https://www.youtube.com/watch?v=lIxq4TCdlRU)
+Take Home Project Course: [Sean Allen](https://www.youtube.com/watch?v=MSIe2y6Fee8)
 
