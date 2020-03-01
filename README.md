@@ -5,7 +5,7 @@
 
 ---
 
-![Preview](Assets/WarCardGame.gif)
+![Preview](Assets/Demo.mov)
 
 ---
 
